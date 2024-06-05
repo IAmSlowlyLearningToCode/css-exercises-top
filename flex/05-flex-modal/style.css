@@ -25,6 +25,7 @@ body {
 
 .header-container {
   display: flex;
+  align-items: center;
   font-size: 1.15rem;
 }
 
