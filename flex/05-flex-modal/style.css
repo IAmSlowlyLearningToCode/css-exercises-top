@@ -31,7 +31,7 @@ body {
   gap: 16px;
 }
 
-.header-container {
+.header {
   display: flex;
   align-items: center;
   font-size: 1.15rem;
