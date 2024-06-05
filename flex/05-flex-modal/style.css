@@ -25,6 +25,11 @@ body {
 
 .header-container {
   display: flex;
+  font-size: 1.15rem;
+}
+
+.header {
+  font-weight: bold;
 }
 
 .close-button {
