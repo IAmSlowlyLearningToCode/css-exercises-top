@@ -45,3 +45,6 @@ ul {
   display: flex;
   gap: 16px;
 }
+.left-links a, .right-links a {
+  color: #3d3d3d;
+}
