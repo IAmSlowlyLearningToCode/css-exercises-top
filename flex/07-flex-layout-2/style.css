@@ -9,6 +9,11 @@ a {
   color: #fff;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+}
+
 .header {
   font-size: 32px;
   font-weight: 900;
