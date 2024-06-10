@@ -52,11 +52,10 @@ ul {
 
 .sidebar {
   width: 300px;
+  flex: 0 0 auto;
   background: royalblue;
   box-sizing: border-box;
-  padding: 16px;
-  min-width: fit-content;
-  flex: 0 1 auto;
+  padding: 16px;  
 }
 
 .card {
