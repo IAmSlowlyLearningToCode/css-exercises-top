@@ -33,6 +33,13 @@ ul {
   flex: 1;
 }
 
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 48px;
+}
+
 .footer {
   height: 72px;
   background: #eee;
