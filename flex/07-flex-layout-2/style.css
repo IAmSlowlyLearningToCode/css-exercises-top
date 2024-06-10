@@ -55,6 +55,8 @@ ul {
   background: royalblue;
   box-sizing: border-box;
   padding: 16px;
+  min-width: fit-content;
+  flex: 0 1 auto;
 }
 
 .card {
